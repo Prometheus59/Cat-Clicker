@@ -1,0 +1,14 @@
+.whole {
+    display: flex;
+    flex-direction: row;
+    margin: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec1, .sec2 {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
